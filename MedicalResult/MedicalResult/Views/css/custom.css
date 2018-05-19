@@ -1,0 +1,63 @@
+﻿body, html{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+.put-border{
+	border: 1px solid black;
+}
+
+.margin-auto{
+	margin: 0 auto;
+}
+
+.center-text{
+	text-align: center;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+.header{
+	background-color: #5bb2ff;
+	height: 70px;
+	line-height: 70px;
+}
+
+.logo{
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: 1px;
+	float: left;
+}
+
+.logo:hover{
+	color: #ececec;
+}
+
+.section{
+	
+}
+
+.patients{
+	padding-top: 20px;
+}
+
+.table-container{
+	
+}
+
+th, td{
+	text-align: center;
+}

@@ -1,0 +1,22 @@
+<div class="container patients section-content">
+	<div class="row">
+		<div class="col-md-12 table-container margin-auto">
+			<table class="table table-bordered">
+				<tr>
+					<th>Nom</th>
+					<th>Date de diagnostic</th>
+					<th>Sexe</th>
+					<th>Age</th>
+					<th>Maladie</th>
+				</tr>
+				<tr ng-repeat="item in patients">
+					<td>{{item.nom}}</td>
+					<td>{{item.dateDiag}}</td>
+					<td>{{item.sexe}}</td>
+					<td>{{item.age}}</td>
+					<td>{{item.maladie}}</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>

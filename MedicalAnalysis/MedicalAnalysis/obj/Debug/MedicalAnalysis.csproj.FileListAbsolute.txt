@@ -1,0 +1,11 @@
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\bin\Debug\MedicalAnalysis.exe.config
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.csprojResolveAssemblyReference.cache
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.View.MainForm.resources
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.Properties.Resources.resources
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.csproj.GenerateResource.Cache
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\bin\Debug\MedicalAnalysis.exe
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\bin\Debug\MedicalAnalysis.pdb
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.exe
+c:\users\gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.pdb
+C:\Users\Gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.View.AjoutConsultation.resources
+C:\Users\Gimmy\documents\visual studio 2012\Projects\MedicalAnalysis\MedicalAnalysis\obj\Debug\MedicalAnalysis.View.ResultSimilar.resources
